@@ -1,3 +1,7 @@
+body {
+  background: #16202B;
+}
+
 .centered {
   position: fixed;
   top: 50%;
